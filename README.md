@@ -1,7 +1,7 @@
 
 # Code will be released soon!
 
-# TP-AE_Object_tracking
+# TP-AE: Temporally Primed 6D Object Pose Tracking with Auto-Encoders
 Code for the ICRA22 paper: TP-AE: Temporally Primed 6D Object Pose Tracking with Auto-Encoders
 
 # Citation
