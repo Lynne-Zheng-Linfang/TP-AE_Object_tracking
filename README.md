@@ -25,7 +25,7 @@ Fast and accurate tracking of an object's motion is one of the key functionaliti
 ### For Training
 Nvidia GPU with >4GB memory (or adjust the batch size)  
 RAM >8GB  
-Duration depending on Configuration and Hardware: ~3h per Object
+Duration depending on Configuration and Hardware: ~18h per Object
 
 ## Requirements: Software
 
